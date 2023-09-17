@@ -24,4 +24,4 @@ Le programme n'est pas encore bien défini, il évoluera au fil du temps !
 
 # .Dimanche midi
 
-Quoi ? C'est déjà fini ? Petit dej/brunch avec les survivants de la soirée ! :) 
+> Quoi ? C'est déjà fini ? Petit dej/brunch avec les survivants de la soirée ! :) 
