@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "Infos"
 order: 1
 ---
 ![Image de la version de Chirac dans les Guignols de l'info avec son fameux "putain, 2ans  !"](/images/canal-ressuscite-les-guignols-pour-rendre-hommage-jacques-chirac.jpg)
