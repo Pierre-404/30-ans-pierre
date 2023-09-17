@@ -28,8 +28,10 @@ _La dernière mise à jour a été réalisée le  17/09/23 à 16h16._
 | Stan       | Troyes       |
 | Timothée G.       | Lille         | 
 
-A répondu mais ne sera pas disponible :
+---
 
-Alexandre D.
-Alizée L.
-Stéphanie P. 
+|A répondu mais ne sera pas disponible|
+|:----------------------|
+| Alexandre D.      |
+| Alizée L.     |
+| Stéphanie P.        | 
