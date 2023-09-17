@@ -2,7 +2,7 @@
 title: "Contact"
 order: 4
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
+Pour toute question ou remarque : [https://framaforms.org/users/pierre-lmd/contact ](https://framaforms.org/users/pierre-lmd/contact)
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+
+Sinon, vous avez certainement mon numéro de téléphone, mon mail ou un autre canal de contact ! 
