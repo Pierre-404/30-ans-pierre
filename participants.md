@@ -1,6 +1,6 @@
 ---
 title: "Participants"
-order: 4
+order: 2
 ---
 # **Qui c'est qui vient ?**
 
