@@ -20,12 +20,14 @@ _La dernière mise à jour a été réalisée le  18/09/23 à 10h14._
 | Cécile L.       | Troyes       |
 | Clara P.        | Reims       |
 | Clémence R.       | Troyes       |
+| Dayana       | Lyon      |
 | Fabien P.        | Lyon      |
 | Guillaume A.       | Troyes       |
 | Hélène H.    | Épernay         |
 | Julien M.      | Troyes       |
 | Lucas S.       | Troyes       |
 | Lucile F.        | Troyes      |
+| Lysa L.       | Troyes      |
 | Margot L.        | Troyes      |
 | Pierre L.        | Troyes        |
 | Stan       | Troyes       |
@@ -35,9 +37,19 @@ _La dernière mise à jour a été réalisée le  18/09/23 à 10h14._
 
 ---
 
+|Ne sait pas|
+|:----------------------|
+| Diane B.        |
+| Florent C.      | 
+| Maxime L.        | 
+
+
+---
+
 |A répondu mais ne sera pas disponible|
 |:----------------------|
 | Alexandre D.      |
 | Alizée L.     |
 | Clément L.     |
+| Sofiane D.        | 
 | Stéphanie P.        | 
