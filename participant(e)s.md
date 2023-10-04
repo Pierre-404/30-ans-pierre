@@ -41,9 +41,8 @@ _La dernière mise à jour a été réalisée le  04/10/23 à 19h00._
 |Ne sait pas|
 |:----------------------|
 | Diane B.        |
-| Florent C.      | 
 | Maxime L.        | 
-
+| Nicolas G.      | 
 
 ---
 
@@ -52,5 +51,6 @@ _La dernière mise à jour a été réalisée le  04/10/23 à 19h00._
 | Alexandre D.      |
 | Alizée L.     |
 | Clément L.     |
+| Florent C.      | 
 | Sofiane D.        | 
 | Stéphanie P.        | 
