@@ -8,7 +8,7 @@ Vous trouverez ici les personnes qui m'ont informé de leur venue !
 
 Si vous n'y figurez pas (et que c'est à jour), merci de m'indiquer votre présence grâce au formulaire suivant : [Formulaire de présence](https://framaforms.org/presence-30-ans-pierre-1693486016)
 
-_La dernière mise à jour a été réalisée le  04/10/23 à 19h00._
+_La dernière mise à jour a été réalisée le  12/10/23 à 21h00._
 
 
 | Prénom N.     | Ville de départ         |
