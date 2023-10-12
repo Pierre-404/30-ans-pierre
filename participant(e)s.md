@@ -14,6 +14,7 @@ _La dernière mise à jour a été réalisée le  04/10/23 à 19h00._
 | Prénom N.     | Ville de départ         |
 |:----------------------|:------------------|
 | Adèle L.       | Troyes       |
+| Aline L.      | Troyes      |
 | Anaïs D.       | Montpellier        |
 | Annabelle G.        | Lyon      |
 | Augustin D.        | Troyes       |
@@ -22,6 +23,7 @@ _La dernière mise à jour a été réalisée le  04/10/23 à 19h00._
 | Clémence R.       | Troyes       |
 | Clément Pl.     | Paris       |
 | Dayana N.      | Lyon      |
+| Eva B.     |      |
 | Fabien P.        | Lyon      |
 | Guillaume A.       | Troyes       |
 | Hélène H.    | Épernay         |
@@ -30,11 +32,13 @@ _La dernière mise à jour a été réalisée le  04/10/23 à 19h00._
 | Lucile F.        | Troyes      |
 | Lysa L.       | Troyes      |
 | Margot L.        | Troyes      |
+| Maxime C.      | Troyes      |
+| Paul C.     | Troyes     |
 | Pierre L.        | Troyes        |
+| Sandy C.     | Troyes      |
 | Stan V.      | Troyes       |
 | Thomas P.       |        |
 | Timothée G.       | Lille         |
-
 
 ---
 
@@ -50,7 +54,14 @@ _La dernière mise à jour a été réalisée le  04/10/23 à 19h00._
 |:----------------------|
 | Alexandre D.      |
 | Alizée L.     |
+| Anna. A       | 
+| Basile C.        | 
+| Claire B.      | 
 | Clément L.     |
+| Etienne E.      | 
 | Florent C.      | 
+| Marine M.       | 
+| Mayeul A.      | 
+| Médérik M.        | 
 | Sofiane D.        | 
 | Stéphanie P.        | 
