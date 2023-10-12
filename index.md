@@ -18,19 +18,18 @@ On partirait selon l'état actuel des choses sur un week-end de festivités ! (e
 
 Merci de m'indiquer votre présence suivant ce lien : [https://framaforms.org/presence-30-ans-pierre-1693486016](https://framaforms.org/presence-30-ans-pierre-1693486016)
 
-#[Tout le programme ici !](https://pierre-404.github.io/30-ans-pierre/programme.html)
+[Tout le programme en détail ici !](https://pierre-404.github.io/30-ans-pierre/programme.html)
 
-`=> Le vendredi soir à la maison pour ceux qui seront déjà arrivés
+`=> Le vendredi soir à la maison
 `
-
-`=> Le samedi, dans un lieu avec hébergement sur place (48 places) et surtout un peu plus de place pour pouvoir faire un peu de bruit longtemps !`
+`=> Le samedi, dans un lieu avec hébergement sur place à Troyes!`
 
 
 _(Si cela ne vous dérange pas, je vous demanderais une petite participation financière, la location du lieu étant toute chose égale par ailleurs assez onéreuse pour la supporter seul)_
 
 ### Pour ajouter directement l'événement dans votre agenda :
 
-- cliquez su le lien suivant : [https://kdrive.infomaniak.com/app/share/370295/4d55b4dc-8f5e-4a4d-9fe0-55abb818ba07](https://kdrive.infomaniak.com/app/share/370295/4d55b4dc-8f5e-4a4d-9fe0-55abb818ba07)
+- cliquez sur le lien suivant : [https://kdrive.infomaniak.com/app/share/370295/4d55b4dc-8f5e-4a4d-9fe0-55abb818ba07](https://kdrive.infomaniak.com/app/share/370295/4d55b4dc-8f5e-4a4d-9fe0-55abb818ba07)
 - puis "Télécharger"
 - puis sur le fichier téléchargé, et voilà !
 
