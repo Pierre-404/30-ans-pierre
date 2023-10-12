@@ -18,7 +18,7 @@ On partirait selon l'état actuel des choses sur un week-end de festivités ! (e
 
 Merci de m'indiquer votre présence suivant ce lien : [https://framaforms.org/presence-30-ans-pierre-1693486016](https://framaforms.org/presence-30-ans-pierre-1693486016)
 
-
+#[Tout le programme ici !](https://pierre-404.github.io/30-ans-pierre/programme.html)
 
 `=> Le vendredi soir à la maison pour ceux qui seront déjà arrivés
 `
