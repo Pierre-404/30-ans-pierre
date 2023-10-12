@@ -10,7 +10,7 @@ Le programme n'est pas encore bien défini, il évoluera au fil du temps !
 
 > On se retrouve à la maison pour commencer les joyeusetés ! Soirée "classique" (je ne parle pas de la musique) à voir comment les choses se déroulent et jusqu'où l'on va dans la durée, l'étendue des possibilités est ouvert !
 
-`Merci de prévoir un petit truc ramener (manger/boire) pour ceux qui viennent le vendredi soir :)`
+`Merci de prévoir un petit truc ramener (manger/boire) pour ceux qui viennent le vendredi soir `
 
 
 # .Samedi midi
@@ -22,6 +22,8 @@ Le programme n'est pas encore bien défini, il évoluera au fil du temps !
 # .Samedi après-midi
 
 > Activités diverses et variées
+
+`Je m'occupe de tout pas besoin de prévoir quelque chose`
 
 # .Samedi soir
 
@@ -35,3 +37,5 @@ Le programme vous sera dévoilé d'ici peu ! Mais que va-t-on y trouver ? [Feu d
 # .Dimanche midi
 
 > Quoi ? C'est déjà fini ? Petit dej/brunch avec les survivants de la soirée & selon le mood on peut partir sur quelques activités complémentaires ! :) 
+
+`Je m'occupe de tout pas besoin de prévoir quelque chose` 
