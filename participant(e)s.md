@@ -82,10 +82,12 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Médérik M.        | 
 | Nicolas D.        | 
 | Rémi F.        | 
+| Romain C.    | 
 | Sofiane D.        | 
 | Stéphanie P.        | 
 | Théo T.       | 
 | Tiffany D.       | 
+| Vincent B.   | 
 
 ---
 
@@ -119,7 +121,6 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Maud C.    | 
 | Pierre-Antoine S.      |
 | Pierre G.   |  
-| Romain C.    | 
 | Rudy B.    | 
 | Samy F.  |
 | Sylvain D.   | 
