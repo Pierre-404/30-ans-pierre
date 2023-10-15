@@ -14,6 +14,7 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Prénom N.     | Ville de départ         |
 |:----------------------|:------------------|
 | Adèle L.       | Troyes       |
+| Adrien D.      | Paris       |
 | Aline L.      | Troyes      |
 | Anaïs D.       | Montpellier        |
 | Annabelle G.        | Lyon      |
@@ -22,6 +23,7 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Charles M.       | Troyes       |
 | Clara P.        | Reims       |
 | Clémence R.       | Troyes       |
+| Clément Lec.    | Reims     |
 | Clément Pl.     | Paris       |
 | Coraline L.    |       |
 | Dayana N.      | Lyon      |
@@ -30,6 +32,7 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Guillaume A.       | Troyes       |
 | Hélène H.    | Épernay         |
 | Jean-Baptiste G. | Troyes       |
+| Jules L.     | Epernay      |
 | Juliano D.   | Troyes       |
 | Julien M.      | Troyes       |
 | Lucas S.       | Troyes       |
@@ -40,6 +43,7 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Maxime C.      | Troyes      |
 | Paul C.     | Troyes     |
 | Pierre L.        | Troyes        |
+| Raphaël M.    | Paris       |
 | Sandy C.     | Troyes      |
 | Stan V.      | Troyes       |
 | Thibault S.       | Lille         |
@@ -73,6 +77,7 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Florent C.      | 
 | Joshua        | 
 | Marine M.       | 
+| Marius L.   |  
 | Mayeul A.      | 
 | Médérik M.        | 
 | Nicolas D.        | 
@@ -86,7 +91,6 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 
 |N'a pas encore répondu|
 |:----------------------|
-| Adrien D.  |
 | Adrien S.  |
 | Agathe C.   |
 | Aina R.    | 
@@ -96,7 +100,6 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Antoine H.   |
 | Antoine L.  | 
 | Aurélie A.  |
-| Clément Lec.     |
 | Clément P.  |
 | Corto G.  |
 | Damien M. |
@@ -107,18 +110,15 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Grégoire A.  |
 | Guillaume B.  |
 | Jason S.  | 
-| Jules G.    | 
-| Jules L.    | 
-| Jules  | 
+| Jules Ga.    | 
+| Jules Gu. | 
 | Julien Z.    | 
 | Lorraine C. |
 | Lucile L.    | 
 | Ludovic G.   |
-| Marius L.   |  
 | Maud C.    | 
 | Pierre-Antoine S.      |
 | Pierre G.   |  
-| Raphaël M.   | 
 | Romain C.    | 
 | Rudy B.    | 
 | Samy F.  |
