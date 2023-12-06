@@ -1,6 +1,7 @@
 ---
 title: "Programme"
 order: 3
+in_menu: true
 ---
 Le programme n'est pas encore bien défini, il évoluera au fil du temps !
 
@@ -28,6 +29,8 @@ Le programme n'est pas encore bien défini, il évoluera au fil du temps !
 # .Samedi soir
 
 > Soirée à thèmes, certainement peu reposante à l'[Auberge de Jeunesse de Rosières](https://www.openstreetmap.org/node/277828795) !
+
+(Si cela ne vous dérange pas, je demanderais à ceux qui participent au samedi soir une petite participation financière, je m'occupe de prévoir à manger, à boire et de la location du lieu donc ce serait vraiment cool de votre part ! :) )
 
 Le programme vous sera dévoilé d'ici peu ! Mais que va-t-on y trouver ? [Feu d'artifice](https://invidious.fdn.fr/watch?v=EuGmmxUhElE) ? Conférence de [Timothée Parrique](https://invidious.fdn.fr/watch?v=qzm8m24P4Sk) ? [Concert](https://invidious.fdn.fr/watch?v=oKgr7svN0Wo) ? [Histoire](https://invidious.fdn.fr/watch?v=QnmJEHjPuIU) racontée par [Jean Lassalle](https://invidious.fdn.fr/watch?v=8saxHCC4a7M) ? [Pêche aux canards](https://invidious.fdn.fr/watch?v=jx_iSLfYd1w) ? [DJ](https://soundcloud.com/fab_lyon/une_place_au_soleil) [set](https://invidious.fdn.fr/watch?v=tSC7AQ52LPs) ? [Jeu d'échec géant](https://invidious.fdn.fr/watch?v=yf-GXmhqfiE) ? Vous verrez bien le jour même ! ;)
 
