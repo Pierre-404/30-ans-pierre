@@ -21,4 +21,14 @@ Si jamais vous ne buvez pas d'alcool, que vous ne mangez pas sur place ou ne dor
 - Je ne dors pas sur place 20€
 - Je dors sur place mais je ne bois pas d'alcool 20€
 - Je ne dors pas sur place et je ne bois pas d'alcool 10€
-- Je suis passé 5 minutes mais j'ai quand même demandé un verre d'eau 0,50€ 
+- Je suis passé 5 minutes mais j'ai quand même demandé un verre d'eau 0,50€ x)
+
+Vous pouvez participer en m'envoyant le montant par virement suivant ces informations :
+
+TITULAIRE DU COMPTE : M PIERRE LEMARCHAND
+
+IBAN : FR76 1470 7001 0900 9198 4369 890
+BIC / SWIFT : CCBPFRPPMTZ
+Code banque : 14707 - Code guichet :  00109 - N° de compte :  00919843698 - Clé RIB : 90
+
+Domiciliation : TROYES - Banque : BP ALSACE LORRAINE CHAMPAGNE 
