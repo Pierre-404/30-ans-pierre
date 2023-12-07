@@ -31,7 +31,7 @@ Le programme n'est pas encore bien défini, il évoluera au fil du temps !
 > Soirée à thèmes, certainement peu reposante à l'[Auberge de Jeunesse de Rosières](https://www.openstreetmap.org/node/277828795) !
 
 ## Les thèmes seront :
-**_- Les anniversaires de pierrot c'est de Gauche
+**_- Les anniversaires de pierrot c'est de Gauche_**
 - Oups, je m'étais habillé pour aller à un festival Psytrance
 - J'ai choisi mon propre thème d'ailleurs, j'ai écrit ce petit texte que je lirais à ceux qui me demandent 
 - Merde, j'ai rien préparé, je prend ces 2-3 trucs, ce sera assez original pour que ça passe_**
