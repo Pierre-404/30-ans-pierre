@@ -36,7 +36,7 @@ Le programme n'est pas encore bien défini, il évoluera au fil du temps !
 **_J'ai choisi mon propre thème ! D'ailleurs, j'ai écrit ce petit texte que je lirais à ceux qui me demandent_**
 **_Merde, j'ai rien préparé, je prend ces 2-3 trucs, ce sera assez original pour que ça passe_**
 
-(Si cela ne vous dérange pas, je demanderais à ceux qui participent au samedi soir une petite participation financière, je m'occupe de prévoir à manger, à boire et de la location du lieu donc ce serait vraiment cool de votre part ! :) )
+(Si cela ne vous dérange pas, je demanderais à ceux qui participent au samedi soir une petite [participation financière ici](https://pierre-404.github.io/30-ans-pierre/finances.html), je m'occupe de prévoir à manger, à boire et de la location du lieu donc ce serait vraiment cool de votre part ! :) )
 
 Le programme vous sera dévoilé d'ici peu ! Mais que va-t-on y trouver ? [Feu d'artifice](https://invidious.fdn.fr/watch?v=EuGmmxUhElE) ? Conférence de [Timothée Parrique](https://invidious.fdn.fr/watch?v=qzm8m24P4Sk) ? [Concert](https://invidious.fdn.fr/watch?v=oKgr7svN0Wo) ? [Histoire](https://invidious.fdn.fr/watch?v=QnmJEHjPuIU) racontée par [Jean Lassalle](https://invidious.fdn.fr/watch?v=8saxHCC4a7M) ? [Pêche aux canards](https://invidious.fdn.fr/watch?v=jx_iSLfYd1w) ? [DJ](https://soundcloud.com/fab_lyon/une_place_au_soleil) [set](https://invidious.fdn.fr/watch?v=tSC7AQ52LPs) ? [Jeu d'échec géant](https://invidious.fdn.fr/watch?v=yf-GXmhqfiE) ? Vous verrez bien le jour même ! ;)
 
