@@ -1,6 +1,7 @@
 ---
 title: "Infos"
 order: 1
+in_menu: true
 ---
 ![Image de la version de Chirac dans les Guignols de l'info avec son fameux "putain, 2ans  !"](/images/canal-ressuscite-les-guignols-pour-rendre-hommage-jacques-chirac.jpg)
 
@@ -25,7 +26,7 @@ Merci de m'indiquer votre présence suivant ce lien : [https://framaforms.org/pr
 `=> Le samedi, dans un lieu avec hébergement sur place à Troyes!`
 
 
-_(Si cela ne vous dérange pas, je vous demanderais une petite participation financière, la location du lieu étant toute chose égale par ailleurs assez onéreuse pour la supporter seul)_
+_(Si cela ne vous dérange pas, je vous demanderais une [petite participation financière](https://pierre-404.github.io/30-ans-pierre/finances.html), la location du lieu étant toute chose égale par ailleurs assez onéreuse pour la supporter seul)_
 
 ### Pour ajouter directement l'événement dans votre agenda :
 
