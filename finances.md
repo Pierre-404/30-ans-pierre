@@ -9,13 +9,13 @@ Donc pour vous donner une explication, voici ce à quoi vous allez participer :
 
 - De la bière locale, de la Roof en fûts
 - Des Softs
-- Des alcools un peu plus forts et des vin, parfois qui pétilles
+- Des alcools un peu plus forts et des vin, parfois qui pétillent
 - Des mets de qualités un maximum local (et peut-être une petite surprise)
 - Une salle mise à disposition avec jusqu'à 50 couchages sur place
 
 Un grand merci à tous ! :)
 
-Si jamais vous ne buvez pas d'alcool, que vous ne mangez pas sur place ou ne dormez pas sur place, je comprendrais que vous souhaitiez participer un peu moins, voici ce que j'ai imaginé (il fallait bien imaginer quelque chose ^^' ) pour que le reste à ma charge ne soit pas trop élevé :
+Si jamais vous ne buvez pas d'alcool, que vous ne mangez pas sur place ou ne dormez pas sur place, je comprendrais que vous souhaitiez participer un peu moins, voici ce que j'ai imaginé qui conviendrait aux différents cas (il fallait bien imaginer quelque chose ^^' ) pour que le reste à ma charge ne soit pas trop élevé :
 
 - Tout compris, avec petit dej le lendemain 30€
 - Je ne dors pas sur place 20€
