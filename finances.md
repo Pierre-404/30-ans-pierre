@@ -25,10 +25,12 @@ Si jamais vous ne buvez pas d'alcool, que vous ne mangez pas sur place ou ne dor
 
 Vous pouvez participer en m'envoyant le montant par virement suivant ces informations :
 
+'''
 TITULAIRE DU COMPTE : M PIERRE LEMARCHAND
 
 IBAN : FR76 1470 7001 0900 9198 4369 890
 BIC / SWIFT : CCBPFRPPMTZ
 Code banque : 14707 - Code guichet :  00109 - N° de compte :  00919843698 - Clé RIB : 90
 
-Domiciliation : TROYES - Banque : BP ALSACE LORRAINE CHAMPAGNE 
+Domiciliation : TROYES - Banque : BP ALSACE LORRAINE CHAMPAGNE
+''' 
