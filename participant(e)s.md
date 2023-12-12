@@ -1,6 +1,7 @@
 ---
 title: "Participant(e)s"
 order: 2
+in_menu: true
 ---
 # **Qui c'est qui vient ?**
 
@@ -15,7 +16,9 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 |:----------------------|:------------------|
 | Adèle L.       | Troyes       |
 | Adrien D.      | Paris       |
+| Alice L.   | Paris |
 | Aline L.      | Troyes      |
+| Amine C.   |Troyes |
 | Anaïs D.       | Montpellier        |
 | Annabelle G.        | Lyon      |
 | Augustin D.        | Troyes       |
@@ -37,6 +40,7 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Julien M.      | Troyes       |
 | Lucas S.       | Troyes       |
 | Lucile F.        | Troyes      |
+| Ludovic G.   | Lyon |
 | Lysa L.       | Troyes      |
 | Margot F.       | Troyes      |
 | Margot L.        | Troyes      |
@@ -49,6 +53,7 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 | Thibault S.       | Lille         |
 | Thomas P.       |        |
 | Timothée G.       | Lille         |
+| Valériane L.    | Aix-en-Provence |
 
 ---
 
@@ -66,25 +71,33 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 
 |A répondu mais ne sera pas disponible|
 |:----------------------|
+| Adrien S.  |
 | Alexandre D.      |
+| Alexis M.  |
 | Alizée L.     |
 | Anna. A       | 
 | Basile C.        | 
 | Claire B.      | 
 | Clément Lem.     |
+| Damien D. |
 | Emeric G.     | 
 | Etienne E.      | 
 | Florent C.      | 
 | Joshua        | 
+| Jules Ga.    | 
+| Lorraine C. |
 | Marine M.       | 
 | Marius L.   |  
+| Maud C.    | 
 | Mayeul A.      | 
 | Médérik M.        | 
 | Nicolas D.        | 
+| Pierre G.   |  
 | Rémi F.        | 
 | Romain C.    | 
 | Sofiane D.        | 
 | Stéphanie P.        | 
+| Sylvain D.   | 
 | Théo T.       | 
 | Tiffany D.       | 
 | Vincent B.   | 
@@ -93,38 +106,26 @@ _La dernière mise à jour a été réalisée le  13/10/23 à 20h00._
 
 |N'a pas encore répondu|
 |:----------------------|
-| Adrien S.  |
 | Agathe C.   |
 | Aina R.    | 
-| Alexis M.  |
-| Alice L.   |
-| Amine C.   |
 | Antoine H.   |
 | Antoine L.  | 
 | Aurélie A.  |
 | Clément P.  |
 | Corto G.  |
-| Damien M. |
-| Damien D.  |
+| Damien M.  |
 | Emeline F. |
 | Estelle M.  |
 | Félicien C.   | 
 | Grégoire A.  |
 | Guillaume B.  |
 | Jason S.  | 
-| Jules Ga.    | 
 | Jules Gu. | 
 | Julien Z.    | 
-| Lorraine C. |
 | Lucile L.    | 
-| Ludovic G.   |
-| Maud C.    | 
 | Pierre-Antoine S.      |
-| Pierre G.   |  
 | Rudy B.    | 
 | Samy F.  |
-| Sylvain D.   | 
 | Sylvain H.   | 
 | Thomas M.    | 
 | Timothée D.    | 
-| Valériane L.    | 
