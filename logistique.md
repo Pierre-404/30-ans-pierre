@@ -14,7 +14,7 @@ in_menu: true
 
 **Adresse** : 10 rue du Colonel De Bange, 10 000 Troyes
 
-**Point GPS** :
+**Point GPS** : 48.281940394551285, 4.0754047874906245
 
 **Lien Google maps** : https://maps.app.goo.gl/y2JHEBxCcDRctGR96
 
