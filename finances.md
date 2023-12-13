@@ -3,7 +3,7 @@ title: "Finances"
 order: 5
 in_menu: true
 ---
-Hello, comme je vous l'ai indiqué, pour ceux qui seront là le samedi soir, je veux bien que vous participiez aux frais engagés pour vous offrir une soirée digne de ce nom et que vous puissiez venir les mains dans les poches (sauf si vous conduisez, mettez-les sur le volant/guidon svp)
+Hello, comme je vous l'ai indiqué, **pour ceux qui seront là le samedi soir, je veux bien que vous participiez aux frais engagés** pour vous offrir une soirée digne de ce nom et que vous puissiez venir les mains dans les poches (sauf si vous conduisez, mettez-les sur le volant/guidon svp)
 
 Donc pour vous donner une explication, voici ce à quoi vous allez participer :
 
@@ -28,9 +28,12 @@ Vous pouvez participer en m'envoyant le montant par virement suivant ces informa
 ```
 TITULAIRE DU COMPTE : M PIERRE LEMARCHAND
 
-IBAN : FR76 1470 7001 0900 9198 4369 890
+IBAN : 
+FR76 1470 7001 0900 9198 4369 890
 BIC / SWIFT : CCBPFRPPMTZ
-Code banque : 14707 - Code guichet :  00109 - N° de compte :  00919843698 - Clé RIB : 90
+Code banque : 14707 
+Code guichet :  00109 
+N° de compte :  00919843698 - Clé RIB : 90
 
 Domiciliation : TROYES - Banque : BP ALSACE LORRAINE CHAMPAGNE
 ``` 
