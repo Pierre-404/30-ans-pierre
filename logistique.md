@@ -16,9 +16,9 @@ in_menu: true
 
 **Point GPS** : 48.281940394551285, 4.0754047874906245
 
-**Lien Google maps** : https://maps.app.goo.gl/y2JHEBxCcDRctGR96
+**Lien Google maps** : [https://maps.app.goo.gl/y2JHEBxCcDRctGR96](https://maps.app.goo.gl/y2JHEBxCcDRctGR96)
 
-**Lien Openstreetmap** :https://www.openstreetmap.org/directions?from=&to=48.28197%2C4.07540
+**Lien Openstreetmap** : [https://www.openstreetmap.org/directions?from=&to=48.28197%2C4.07540](https://www.openstreetmap.org/directions?from=&to=48.28197%2C4.07540)
 
 **Participation** : amener à grignoter et à boire
 
@@ -35,9 +35,9 @@ in_menu: true
 
 **Point GPS** : 48.25569123759452, 4.066244003117449
 
-**Lien Google Maps** : https://maps.app.goo.gl/HR9Rg6gRapQ87Qco6
+**Lien Google Maps** : [https://maps.app.goo.gl/HR9Rg6gRapQ87Qco6](https://maps.app.goo.gl/HR9Rg6gRapQ87Qco6)
 
-**Lien Openstreetmap** : https://www.openstreetmap.org/directions?from=&to=48.25570%2C4.06626#map=19/48.25596/4.06608
+**Lien Openstreetmap** : [https://www.openstreetmap.org/directions?from=&to=48.25570%2C4.06626#map=19/48.25596/4.06608](https://www.openstreetmap.org/directions?from=&to=48.25570%2C4.06626#map=19/48.25596/4.06608)
 
 **Adresse** : Chemin Sainte-Scholastique, 10430 Rosières-prés-Troyes
 
@@ -56,9 +56,10 @@ in_menu: true
 
 **Point GPS** : 48.25569123759452, 4.066244003117449
 
-**Lien Google Maps** : https://maps.app.goo.gl/HR9Rg6gRapQ87Qco6
+**Lien Google Maps** : [https://maps.app.goo.gl/HR9Rg6gRapQ87Qco6](https://maps.app.goo.gl/HR9Rg6gRapQ87Qco6)
 
-**Lien Openstreetmap** : https://www.openstreetmap.org/directions?from=&to=48.25570%2C4.06626#map=19/48.25596/4.06608
+**Lien Openstreetmap** : [https://www.openstreetmap.org/directions?from=&to=48.25570%2C4.06626#map=19/48.25596/4.06608](https://www.openstreetmap.org/directions?from=&to=48.25570%2C4.06626#map=19/48.25596/4.06608)
+
 
 **Adresse** : Chemin Sainte-Scholastique, 10430 Rosières-prés-Troyes
 
@@ -77,9 +78,9 @@ in_menu: true
 
 **Point GPS** : 48.25569123759452, 4.066244003117449
 
-**Lien Google Maps** : https://maps.app.goo.gl/HR9Rg6gRapQ87Qco6
+**Lien Google Maps** : [https://maps.app.goo.gl/HR9Rg6gRapQ87Qco6](https://maps.app.goo.gl/HR9Rg6gRapQ87Qco6)
 
-**Lien Openstreetmap** : https://www.openstreetmap.org/directions?from=&to=48.25570%2C4.06626#map=19/48.25596/4.06608
+**Lien Openstreetmap** : [https://www.openstreetmap.org/directions?from=&to=48.25570%2C4.06626#map=19/48.25596/4.06608](https://www.openstreetmap.org/directions?from=&to=48.25570%2C4.06626#map=19/48.25596/4.06608)
 
 **Adresse** : Chemin Sainte-Scholastique, 10430 Rosières-prés-Troyes
 
