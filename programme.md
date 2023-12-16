@@ -47,7 +47,7 @@ Concert de [Ceci Dit](https://invidious.fdn.fr/watch?v=oKgr7svN0Wo), un de mes G
 
 ![Ceci dit en pleine action](/images/347233384_917044692928245_2351119425026251204_n.jpg)
 
-Une ambiance assurée grâces aux interventions fréquentes du meilleur DJ de Lyon et d'ailleurs [Nopap]((https://soundcloud.com/fab_lyon/une_place_au_soleil) !
+Une ambiance assurée grâces aux interventions fréquentes du meilleur DJ de Lyon et d'ailleurs [Nopap](https://soundcloud.com/fab_lyon/une_place_au_soleil) !
 
 ![Nopap au meilleur bar de Lyon](/images/329108222_780722273473659_234635765069933721_n.jpg)
 
