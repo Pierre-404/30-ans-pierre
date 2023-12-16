@@ -12,7 +12,7 @@ in_menu: true
 
 **Parking** : Dans la rue
 
-**Photo d'accès** : A venir
+**Photo d'accès** : Il faisait nuit de toute façon
 
 **Adresse** : 10 rue du Colonel De Bange, 10 000 Troyes
 
@@ -33,7 +33,8 @@ in_menu: true
 
 **Parking** : Dans l'allée, vers la fin
 
-**Photo d'accès** : A venir
+**Photo d'accès** : 
+![De la route ça donne ça](/images/signal-2023-12-16-095615.jpeg)
 
 **Point GPS** : 48.25569123759452, 4.066244003117449
 
@@ -54,7 +55,8 @@ in_menu: true
 
 **Parking** : Dans l'allée, vers la fin
 
-**Photo d'accès** : A venir
+**Photo d'accès** :
+![De la route ça donne ça](/images/signal-2023-12-16-095615.jpeg)
 
 **Point GPS** : 48.25569123759452, 4.066244003117449
 
@@ -76,7 +78,8 @@ in_menu: true
 
 **Parking** : Dans l'allée, vers la fin
 
-**Photo d'accès** : A venir
+**Photo d'accès** : 
+![De la route ça donne ça](/images/signal-2023-12-16-095615.jpeg)
 
 **Point GPS** : 48.25569123759452, 4.066244003117449
 
