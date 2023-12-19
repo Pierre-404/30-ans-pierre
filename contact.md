@@ -1,7 +1,7 @@
 ---
 title: "Contact"
-order: 6
-in_menu: true
+order: 7
+in_menu: false
 ---
 Pour toute question ou remarque : [https://framaforms.org/users/pierre-lmd/contact ](https://framaforms.org/users/pierre-lmd/contact)
 
