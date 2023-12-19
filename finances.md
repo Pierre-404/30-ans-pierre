@@ -21,9 +21,11 @@ Si jamais vous ne buvez pas d'alcool, que vous ne mangez pas sur place ou ne dor
 - Je ne dors pas sur place 20€
 - Je dors sur place mais je ne bois pas d'alcool 20€
 - Je ne dors pas sur place et je ne bois pas d'alcool 10€
-- Je suis passé 5 minutes mais j'ai quand même demandé un verre d'eau 0,50€ x)
+- Je suis passé 5 minutes mais j'ai quand même demandé un verre d'eau 0,50€ lol
 
 Vous pouvez participer en m'envoyant le montant par virement suivant ces informations :
+
+![Relevé Pierre](/images/Capture d'écran 2023-12-19 132014.png)
 
 ```
 TITULAIRE DU COMPTE : M PIERRE LEMARCHAND
