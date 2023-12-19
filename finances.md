@@ -1,6 +1,6 @@
 ---
 title: "Finances"
-order: 5
+order: 3
 in_menu: true
 ---
 Hello, comme je vous l'ai indiqué, **pour ceux qui seront là le samedi soir, je veux bien que vous participiez aux frais engagés** pour vous offrir une soirée digne de ce nom et que vous puissiez venir les mains dans les poches (sauf si vous conduisez, mettez-les sur le volant/guidon svp)

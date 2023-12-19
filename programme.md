@@ -1,6 +1,6 @@
 ---
 title: "Programme"
-order: 3
+order: 4
 in_menu: true
 ---
 Le programme n'est pas encore bien défini, il évoluera au fil du temps !

@@ -1,6 +1,6 @@
 ---
 title: "MERCI !"
-order: 7
+order: 2
 in_menu: true
 ---
 Hello, je voulais prendre le temps de vous écrire un message de remerciement à la hauteur du week-end que vous m’avez fait vivre, donc le voici ! 😊 J'espère que tout le monde est bien rentré et reposé ! 😉

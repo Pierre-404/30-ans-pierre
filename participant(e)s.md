@@ -1,6 +1,6 @@
 ---
 title: "Participant(e)s"
-order: 2
+order: 5
 in_menu: true
 ---
 # **Qui c'est qui vient ?**

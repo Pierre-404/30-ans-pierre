@@ -1,6 +1,6 @@
 ---
 title: "Logistique"
-order: 6
+order: 7
 in_menu: true
 ---
 **Lien du groupe [Signal](https://www.signal.org/fr/download/) où sont données toutes les infos** : [https://signal.group/#CjQKICAM1U_BzO-biX4vUJNIoD5t_NbhM7RLmsVgswtjoDMdEhAo7EtkbvCmKqpDc-sG10Wf](https://signal.group/#CjQKICAM1U_BzO-biX4vUJNIoD5t_NbhM7RLmsVgswtjoDMdEhAo7EtkbvCmKqpDc-sG10Wf)
